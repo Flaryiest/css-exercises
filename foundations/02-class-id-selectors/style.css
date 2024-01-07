@@ -1,0 +1,19 @@
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 100;
+    color: aqua;
+    background-color: black;
+}
+#fourth {
+    background-color:lightblue;
+    font-size:24;
+    color:red;
+}
+#second {
+    background-color:aqua;
+    font-size:24;
+}
+.third {
+    font-size:24;
+    color:purple;
+}
