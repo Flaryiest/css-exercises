@@ -51,6 +51,7 @@ body {
   padding: 0px;
   margin: 8px;
   flex-shrink: 0;
+  margin-left: 96px;
 }
 
 button {
